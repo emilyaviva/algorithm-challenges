@@ -16,5 +16,3 @@ Given the following infinitely extended grid:
 ## Challenges
 
 1. Write a function that returns the value for any arbitrary cell. Your function should not need to calculate the entire table to perform its work.
-
-2.
