@@ -12,7 +12,7 @@ In the event that more than one digit in the player's guess merits a Pico or a F
 Examples where my number is 1234:
 - You guess 7892. I answer 'Pico'.
 - You guess 2345. I answer 'Pico Pico Pico'.
-- You guess 2430. I answer 'Fermi Pico Pico.'
+- You guess 2430. I answer 'Fermi Pico Pico'.
 - You guess 5678. I answer 'Bagels'.
 
 ## Challenges
