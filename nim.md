@@ -4,7 +4,7 @@
 Nim is a two-player game. The players start with a certain number of stones. On your turn, you may take away 1, 2, or 3 stones. You may not pass a turn. Players alternate turns until there are exactly 0 stones remaining. The player who removes the final stone is the winner.
 
 ## Challenges
-1. Your opponent is a robot always picks a random number of stones. Find and implement an algorithm to play the game perfectly against the robot.
+1. Your opponent is a robot who always picks a random number of stones. Find and implement an algorithm to play the game perfectly against the robot.
 
 2. The rule changes so that the player who removes the final stone _loses_ (this is often called "misère Nim"). Re-implement your algorithm.
 
