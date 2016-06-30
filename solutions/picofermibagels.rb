@@ -1,5 +1,6 @@
-# to run: $ ruby ./solutions/picofermibagels.rb
-class Referee 
+#!/usr/bin/env ruby
+
+class Referee
   def initialize
     @num = pick_number
     @count = 0
